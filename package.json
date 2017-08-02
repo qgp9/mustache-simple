@@ -1,0 +1,22 @@
+{
+  "name": "mustache-simple",
+  "version": "0.0.1",
+  "description": "Simple mustache compiler",
+  "main": "mustache-simple.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https+git://github.com/qgp9/mustache-simple"
+  },
+  "keywords": [
+    "mustache",
+    "template"
+  ],
+  "author": "qgp9 <pauljang9@gmail.com>",
+  "license": "MIT"
+}
