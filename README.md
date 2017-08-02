@@ -1,5 +1,7 @@
 # mustache-simple
 
+[![npm version](https://badge.fury.io/js/mustache-simple.svg)](https://www.npmjs.com/package/mustache-simple)
+
 Dead simple limited mustache compiler
 
 ## Install
