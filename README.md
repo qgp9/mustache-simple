@@ -9,9 +9,13 @@ Dead simple limited mustache compiler
 npm install --save mustache-simple
 ```
 
+## Features
+* Support nested object map
+* Two types of behavior. Full/Partial compile
+
 ## Usage
 * `compileAll` remove all unmatched mustaches
-* `compileMatch` don't touch unmatched mustaches
+* `compileMatch` don't touch unmatched mustaches. In case pre-preocess partially
 * `false`, `null` will be ''
 * `undefined` is treated as unmatched
 * No filter, No escape
