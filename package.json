@@ -1,6 +1,6 @@
 {
   "name": "mustache-simple",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple mustache compiler",
   "main": "mustache-simple.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https+git://github.com/qgp9/mustache-simple"
+    "url": "https://github.com/qgp9/mustache-simple"
   },
   "keywords": [
     "mustache",
