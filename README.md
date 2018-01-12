@@ -24,9 +24,9 @@ npm install --save mustache-simple
 
 ```js
 const mustache = require('mustache-simple')
-const map = {
+const config = {
   foo: 'bar',
-  hello: 'world'
+  hello: 'world',
   users: {
     bob: {
       age: 23
